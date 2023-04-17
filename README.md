@@ -16,7 +16,7 @@ The 1.0 version is just a testing version. Progress has been slow due to a numbe
 
 <img src="https://user-images.githubusercontent.com/54738414/232410444-41428ecc-09ea-4400-9a3a-3c448498fd17.png" width="450" >
 
-### urrent Progress:
+### current Progress:
 Part of the soldering has been completed. Some components still missing.
 
 <img src="https://user-images.githubusercontent.com/54738414/232412319-2d68a40f-caa6-42bc-875e-44275b688fd3.png" width="450" >
