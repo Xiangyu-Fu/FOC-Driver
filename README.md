@@ -17,6 +17,19 @@ The 1.0 version is just a testing version. Progress has been slow due to a numbe
 <img src="https://user-images.githubusercontent.com/54738414/232410444-41428ecc-09ea-4400-9a3a-3c448498fd17.png" width="450" >
 
 ### current Progress:
-Part of the soldering has been completed. Some components still missing.
+The soldering has been completed.
 
-<img src="https://user-images.githubusercontent.com/54738414/232412319-2d68a40f-caa6-42bc-875e-44275b688fd3.png" width="450" >
+<img src="https://github.com/Xiangyu-Fu/FOC-Driver/assets/54738414/f85f9efc-5d84-4a6f-bd46-b32a8494b932" width="450" >
+
+
+<img src="https://github.com/Xiangyu-Fu/FOC-Driver/assets/54738414/6ad3d854-6827-4592-9b19-2b2ce9215eda" width="450" >
+
+But the design of the circuit has some bugs that the inductor has burned. 
+
+## FOC-Driver v1.1
+
+New PCB design (3D version):
+
+<img src="https://github.com/Xiangyu-Fu/FOC-Driver/assets/54738414/9f86dd3f-7c60-4381-9617-4017c6ae9b48" width="450" >
+
+Now add a new convert circuit to insulate the different power supply source.
