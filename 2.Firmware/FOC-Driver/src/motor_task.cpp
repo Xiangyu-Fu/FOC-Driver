@@ -129,9 +129,9 @@ void MotorTask::run(){
         motor.loopFOC();
 
         // // print current position, after checking the sensor reading is work well
-        // char str_angle[20];
-        // sprintf(str_angle, "%f", encoder.getAngle());
-        // log(str_angle);
+        char str_angle[20];
+        sprintf(str_angle, "%f", encoder.getAngle());
+        log(str_angle);
 
         // Check queue for pending requests from other tasks
         Command command;

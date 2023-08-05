@@ -7,5 +7,8 @@
 			"path": "2.Firmware/FOC-Driver"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"stm32-for-vscode.openOCDPath": false,
+		"stm32-for-vscode.armToolchainPath": false
+	}
 }

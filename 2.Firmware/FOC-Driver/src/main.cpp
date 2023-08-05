@@ -30,8 +30,8 @@ void setup()
   motor_task.setLogger(&interface_task);
   motor_task.begin();
   interface_task.begin();
-  uart_task.begin();
-  display_task.begin();
+  // uart_task.begin();
+  // display_task.begin();
 
   // Free up the Arduino loop task
   vTaskDelete(NULL);
