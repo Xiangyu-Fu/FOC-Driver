@@ -1,6 +1,5 @@
 # FOC-Driver
-A modified version of the SimpleFOC based project. The official design was a bit large for my project below, so I redesigned the FOC drive and made it small enough (42mm x 42mm) to fit a small BLDC motor as well as 42 step motor.
-
+"The 'FOC Driver Comet' is a DIY project I've worked on to offer both hobbyists and tech tinkerers a hands-on, scalable tool for managing brushless DC (BLDC) motors through the user-friendly SimpleFOC library. I plan to integrate this driver into my personal projects, including the 'robot arm, venus'. Looking ahead, I also plan to incorporate it into a robot dog I'm dreaming up. This project isn't just about building something functional—it's about fueling creativity and innovation in robotics at a grassroots level, encouraging others to experiment and evolve their own ideas into something tangible and thrilling."
 
 ## FOC-Driver v1.0
 The 1.0 version is just a testing version. Progress has been slow due to a number of constraints, including funding and logistics. Because it is a testing version, I add a small OLED screen to display the current state. 
